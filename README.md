@@ -3,8 +3,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Database_Analysis-00758F?style=for-the-badge)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
 An end-to-end data analytics project using **MySQL** and **Excel** to analyze user interaction dynamics on an Instagram-like social network. This project evaluates user activity patterns, isolates inactive cohorts, identifies peak engagement windows, and derives data-driven recommendations for user retention and content optimization.
 
 ---
